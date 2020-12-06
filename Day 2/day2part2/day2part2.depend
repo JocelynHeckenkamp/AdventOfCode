@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607226636 source:c:\acm\adventofcode\day 2\day2part2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
