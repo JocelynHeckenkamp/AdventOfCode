@@ -129,6 +129,9 @@ bool checkpid(string data)
     if (index == -1)
         return false;
 
+    if (isdigit(data[index+13]))
+        return false;
+
     for (int i = 0; i < 9; i++)
         if (!isdigit(data[index+4+i]))
             return false;
