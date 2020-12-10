@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607590466 source:c:\acm\adventofcode\day 10\day10part2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<climits>
+
