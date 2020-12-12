@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607762610 source:c:\acm\adventofcode\day 12\day12part2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
