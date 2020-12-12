@@ -5,8 +5,6 @@ Calculate how many occupied seats there will people after people stabilize*/
 #include <fstream>
 #include <string>
 using namespace std;
-// LEN: 98, 10
-// WID: 99, 10
 const int LEN = 98;
 const int WID = 99;
 
